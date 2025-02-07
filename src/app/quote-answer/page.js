@@ -8,7 +8,7 @@ export default function QuoteAnswer() {
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-pink-200">
       <Image
-        src="/valentines.git/fuss.gif"
+        src="/valentines/fuss.gif"
         alt="fuss"
         width={200}
         height={100} 

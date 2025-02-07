@@ -8,7 +8,7 @@ export default function BodyAnswer() {
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-pink-200">
       <Image
-        src="/valentines.git/body.gif"
+        src="/valentines/body.gif"
         alt="body"
         width={200}
         height={100} 

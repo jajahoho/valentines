@@ -8,7 +8,7 @@ export default function Child() {
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-pink-200">
       <Image
-        src="/valentines.git/child.gif"
+        src="/valentines/child.gif"
         alt="child"
         width={200}
         height={100} 

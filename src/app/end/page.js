@@ -8,7 +8,7 @@ export default function End() {
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-pink-200">
       <Image
-        src="/valentines.git/smothered.gif"
+        src="/valentines/smothered.gif"
         alt="smothered"
         width={200}
         height={100} 

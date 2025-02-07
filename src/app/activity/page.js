@@ -8,7 +8,7 @@ export default function Activity() {
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-pink-200">
       <Image
-        src="/valentines.git/activity.gif"
+        src="/valentines/activity.gif"
         alt="activity"
         width={200}
         height={100} 

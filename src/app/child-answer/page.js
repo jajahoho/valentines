@@ -8,7 +8,7 @@ export default function ChildAnswer() {
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-pink-200">
       <Image
-        src="/valentines.git/sleep.gif"
+        src="/valentines/sleep.gif"
         alt="sleep"
         width={200}
         height={100} 
