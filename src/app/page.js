@@ -44,7 +44,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-pink-200 relative">
       <Image
-        src="/valentines.git/bubu.gif"
+        src="/valentines/bubu.gif"
         alt="bubu"
         width={200}
         height={100} 
